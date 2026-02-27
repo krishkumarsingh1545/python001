@@ -60,7 +60,7 @@ Here you’ll find:
 | Python Basics | ✅ Completed |
 | NumPy         | ✅ Completed |
 | Pandas        | ✅ Completed |
-| Matplotlib    | ⏳ In progress |
+| Matplotlib    | ✅ Completed |
 | Machine Learning | ⏳ Not Started |
 
 ---
