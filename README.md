@@ -1,93 +1,92 @@
 # 🚀 Data Science Journey with Python
 
-Welcome to my **Data Science learning repository** — a place where raw data meets curious code and turns into insights.  
-This repo documents my journey as I learn, practice, and build projects in **Data Science using Python**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Data%20Science-Learning-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20With-Jupyter-blue?style=for-the-badge&logo=jupyter">
+</p>
+
+<p align="center">
+  <b>Turning data into stories, one notebook at a time.</b>
+</p>
 
 ---
 
-## 🧠 What This Repository Is About
+## 🧠 About This Repository
+
+Welcome to my **Data Science learning repository**.  
+This repository documents my journey as I learn and practice **Data Science using Python**.
 
 This is not just a collection of code.  
-It’s a **learning log**, a **practice ground**, and a **growth tracker**.
+It is:
 
-Here you’ll find:
-- 📘 Concept notes
-- 🧪 Practice exercises
-- 📊 Data analysis projects
-- 📈 Visualizations
-- 🤖 Machine learning experiments (coming soon)
+- 📘 A learning log  
+- 🧪 A practice ground  
+- 📊 A project workspace  
+- 📈 A progress tracker  
+
+Every folder reflects a step forward in my learning journey.
+
+---
+
+## 🧭 Current Focus
+
+🔥 Learning **Seaborn** and improving statistical visualization skills.
 
 ---
 
 ## 🗺️ Learning Roadmap
 
 ### 🐍 Python Fundamentals
-- Variables and Data Types
-- Control Flow (if, loops)
-- Functions
-- Lists, Tuples, Dictionaries, Sets
-- File Handling
+✔ Variables & Data Types  
+✔ Control Flow (if/else, loops)  
+✔ Functions  
+✔ Lists, Tuples, Dictionaries, Sets  
+✔ File Handling  
+
+---
 
 ### 📊 Data Science Libraries
-- **NumPy** → Numerical computing
-- **Pandas** → Data manipulation
-- **Matplotlib** → Data visualization
-- **Seaborn** → Statistical plots
 
-### 📈 Data Analysis
-- Data cleaning
-- Data transformation
-- Exploratory Data Analysis (EDA)
-- Visualization techniques
+| Library | Purpose |
+|---------|---------|
+| **NumPy** | Numerical computing |
+| **Pandas** | Data manipulation & analysis |
+| **Matplotlib** | Data visualization |
+| **Seaborn** | Statistical visualization |
+
+---
+
+### 📈 Data Analysis Workflow
+- Data Cleaning  
+- Data Transformation  
+- Exploratory Data Analysis (EDA)  
+- Visualization & Insights  
+
+---
 
 ### 🤖 Machine Learning (Upcoming)
-- Scikit-learn basics
-- Regression
-- Classification
-- Model evaluation
+- Scikit-learn basics  
+- Regression  
+- Classification  
+- Model Evaluation  
 
 ---
 
 ## 📂 Repository Structure
 
-
----
-
-## 📌 Current Progress Tracker
-
-| Topic        | Status |
-|--------------|--------|
-| Python Basics | ✅ Completed |
-| NumPy         | ✅ Completed |
-| Pandas        | ✅ Completed |
-| Matplotlib    | ✅ Completed |
-| Machine Learning | ⏳ Not Started |
-
----
-
-## 🛠️ Tools & Technologies
-
-- Python 🐍
-- Jupyter Notebook 📓
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn (soon)
-
----
-
-## 📊 Projects (Growing List)
-
-- 📁 Data Cleaning Mini Projects
-- 📈 Visualization Exercises
-- 🔍 Exploratory Data Analysis
-
----
-
-## 🎯 Goals of This Repository
-
-- Build a **strong foundation** in data science
-- Create **real-world projects**
-- Document learning progress
-- Stay consistent and accountable
-
+```bash
+Data-Science-Journey/
+│
+├── Python_Basics/
+├── NumPy/
+├── Pandas/
+├── Matplotlib/
+├── Seaborn/
+├── Projects/
+│   ├── Data_Cleaning/
+│   ├── EDA/
+│   └── Visualization/
+│
+└── README.md
